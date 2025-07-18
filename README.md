@@ -1,11 +1,8 @@
 # wfc_2019f
 
-This is my research implementation of WaveFunctionCollapse in Python. It has two goals:
+Original Python implementation [here](https://github.com/ikarth/wfc_2019f?tab=readme-ov-file).
 
-* Make it easier to understand how the algorithm operates
-* Provide a testbed for experimenting with alternate heuristics and features
-
-For more general-purpose WFC information, the original reference repository remains the best resource: https://github.com/mxgmn/WaveFunctionCollapse
+For more general-purpose WFC information, see: https://github.com/mxgmn/WaveFunctionCollapse
 
 ## Installing
 
@@ -17,6 +14,11 @@ conda activate wfc2019
 pip install -r requirements.txt
 python wfc_run.py -s samples_reference.xml
 ```
+
+## Running a custom pattern
+1. Put your pattern in ./images/samples
+2. Put a
+3. Run 
 
 ## Running WFC
 

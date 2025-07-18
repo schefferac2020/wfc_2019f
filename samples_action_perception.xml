@@ -1,0 +1,8 @@
+<samples>
+    <!-- TODO: Fill in the Necessary Parameters for your Pattern. 
+    If I entered my sample as images/samples/Dino.png I would do the following
+    <overlapping name="Dino" N="3" symmetry="2" width="20" height="20"/>
+    -->
+	<overlapping name="Link" N="3" periodic="True"/>
+
+</samples>
